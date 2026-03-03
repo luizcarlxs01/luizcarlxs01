@@ -52,7 +52,7 @@ Tenho interesse em escrever código limpo, bem estruturado e orientado a boas pr
 ### Sistema de Denuncias de Acessibilidade
 > Stack: .NET · ASP.NET Core · Next.js · TypeScript · Python · Playwright
 
-Sistema full stack desenvolvido como projeto semestral (PM-6SEM-2025). O backend expoe uma API REST em ASP.NET Core, o frontend foi construido com Next.js e TypeScript, e o modulo de automacao realiza preenchimento de formularios web via Playwright. O projeto integra camadas distintas com foco em coesao entre as partes.
+Sistema full stack desenvolvido como projeto semestral (Calçada Cidadã). O backend expoe uma API REST em ASP.NET Core, o frontend foi construido com Next.js e TypeScript, e o modulo de automacao realiza preenchimento de formularios web via Playwright. O projeto integra camadas distintas com foco em coesao entre as partes.
 
 ---
 
